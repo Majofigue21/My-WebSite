@@ -1,0 +1,370 @@
+
+hr {
+   /* border-style: none;
+      border-top-style: dotted;
+   */
+    border-style: dotted none none;
+    
+    width: 4%;
+    border-width: 5px;
+    color: gray;
+    clear: left;
+    margin: 100px auto 100px ;
+}
+.photo{
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    border:10px solid #ffab73;
+}
+h1{
+    line-height: 2;
+    width: 20%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    /*font-size: 90px;
+    font-size: 5.6em;
+    font-size: 5.6rem; good
+    */
+    font-size: 600%;
+    color: black;
+    
+}
+h2 {
+    font-family: 'Montserrat';
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+    color: black;
+}
+h3{
+    
+    color: black;
+    font-size: 40px;
+}
+h4{
+    color: #ffab73;
+    font-size: 40px;
+}
+h5{
+    color: #ffab73;
+    font-size: 40px;
+    text-align: right;
+}
+
+.top-container {
+    background-color: #ffaec0 ;
+    padding-top: 100px;
+
+}
+.middle-container {
+    margin-top: 100px;
+    background-color: #fff9b0;
+}
+.hab{
+    margin-top: 100px;
+    background-color: #ffd384;
+}
+.pasat{
+    margin-top: 100px;
+    background-color: #ffd384;
+}
+.food-drink{
+    margin-top: 100px;
+    background-color: #ffd384;
+}
+.My-career{
+    margin-top: 100px;
+    background-color: #ffd384;
+}
+.bottom-container {
+    background-color: #ffaec0 ;
+}
+body{
+    background-color: #ffab73;
+    margin: 0;
+    text-align: center;
+    color: black;
+    font-family: 'Montserrat';
+}
+.bottom-cloud {
+    width:200px;
+    height:200px;
+    right: 100px;
+    top: 100px;
+    position: absolute;
+}
+p{
+    line-height: 2;
+    font-size: 25px;
+    color: black;
+}
+.primero{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    
+
+}
+.segundo{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+
+.tercero{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.hobbies-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.hobbies-row2{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.hobbies-row3{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.hobbies-row4{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.food-drink-row5{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.food-drink-row6{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.food-drink-row7{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.food-drink-row8{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    color: black;
+}
+.code-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    height: 300px;
+}
+.giphy-embed{
+    width: 25%;
+    height: 300px;
+    float: right;
+    position: relative;
+    margin-left: 50px;
+}
+.hobbies1{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    height: 300px;
+}
+.hobbies2{
+    width: 35%;
+    height: 300px;
+    float: right;
+    position: relative;
+    margin-left: 30px;
+}
+.hobbies3{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    height: 300px;
+}
+.hobbies4{
+    width: 35%;
+    height: 300px;
+    float: right;
+    position: relative;
+    margin-left: 30px;
+}
+.food-drink1{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    height: 300px;
+}
+.food-drink2{
+    width: 35%;
+    height: 300px;
+    float: right;
+    position: relative;
+    margin-left: 30px;
+}
+.food-drink3{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    position: relative;
+    height: 300px;
+}
+.food-drink4{
+    width: 35%;
+    height: 300px;
+    float: right;
+    position: relative;
+    margin-left: 30px;
+}
+.vue-p {
+    clear: right;
+    font-size:28px;
+    color: black;
+}
+.vue-p2 {
+    clear: left;
+    font-size:28px;
+    color: black;
+    text-align: right;
+}
+.vue-p3 {
+    clear: right;
+    font-size:28px;
+    color: black;
+
+}
+.vue-p4 {
+    clear: left;
+    font-size:28px;
+    color: black;
+    text-align: right;
+}
+.vue-p5 {
+    clear: right;
+    font-size:28px;
+    color: black;
+}
+.vue-p6 {
+    clear: left;
+    font-size:28px;
+    color: black;
+    text-align: right;
+}
+.vue-p7 {
+    clear: right;
+    font-size:28px;
+    color: black;
+}
+.vue-p8 {
+    clear: left;
+    font-size:28px;
+    color: black;
+    text-align: right;
+}
+.vue-p9 {
+    clear: right;
+    font-size:28px;
+    color: black;
+}
+.vue-p0 {
+    clear: left;
+    font-size:28px;
+    color: black;
+    text-align: right;
+}
+.vue-p01{
+    clear: left;
+    font-size:28px;
+    color: black;
+    text-align: center;
+}
+.btn {
+    background: #ffaec0;
+    background-image: -webkit-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: -moz-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: -ms-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: -o-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: linear-gradient(to bottom, #ffaec0, #ffaec0);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat';
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 100px;
+  }
+  
+  .btn:hover {
+    background: #ffaec0;
+    background-image: -webkit-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: -moz-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: -ms-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: -o-linear-gradient(top, #ffaec0, #ffaec0);
+    background-image: linear-gradient(to bottom, #ffaec0, #ffaec0);
+    text-decoration: black;
+  }
+  .contact-me{
+    margin-bottom: 100px;
+  }
+  .bottom-container{
+      padding: 50px 0 20px;
+  }
+  a{
+      color: black;
+      font-family: 'Monserrat';
+      margin: 10px 20px;
+      text-decoration: none ;
+  }
+
+  a:hover {
+      color: #ffaec0;
+  }
+
+  .copyright{
+    padding: 20px 0px ;
+    font-family: 'Monserrat';
+    color: black;
+    font-size: 0.75rem;
+  }
